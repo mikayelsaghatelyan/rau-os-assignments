@@ -4,11 +4,6 @@
 #include <stdio.h>
 #include <iostream>
 
-int copy_paste(char *src, char *dst)
-{
-    return -1;
-}
-
 int main(int argc, char *argv[])
 {
     if (argc < 2 || argc > 3)
